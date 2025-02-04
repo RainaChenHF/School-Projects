@@ -21,8 +21,8 @@ This repository contains my academic and personal projects in Data Science and M
 
 ## 🛠️ Technologies Used
 - **Programming:** Python  
-- **Libraries:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, XGBoost  
-- **Tools:** Jupyter Notebook, Power BI  
+- **Libraries:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, XGBoost etc.
+- **Tools:** Jupyter Notebook
 
 ---
 👩‍💻 **Check out my portfolio:** [github.com/RainaChenHF/School-Projects](https://github.com/RainaChenHF/School-Projects)
